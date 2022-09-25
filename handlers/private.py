@@ -22,7 +22,7 @@ async def start(_, message: Message):
                         "📚 𝖪𝗈𝗆𝗎𝗍𝗅𝖺𝗋" , callback_data= "herkes"
                     ),
                     InlineKeyboardButton(
-                        "🇹🇷 Gurup𝗅", url="https://t.me/Ballasresmi"
+                        "🇹🇷 Gurup", url="https://t.me/Ballasresmi"
                     )
                 ],
                 [
