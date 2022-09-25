@@ -1,12 +1,12 @@
 
-# Müzik Bot 🇹🇷
-- [Müzik Bot](https://t.me/StarMuzikBot) Telegram Müzik Bot .
+# BALLAS Müzik Bot 🇹🇷
+- [BALLAS Müzik Bot](https://t.me/Ballasmuzikbot) Telegram Müzik Bot .
 
-# Support 
-- [Support](https://t.me/StarBotKanal) Telegram Support Grub .
+# Gurup 
+- [Ballas Gurup](https://t.me/Ballasresmi) Telegram Ballas Grub .
 
 
-### ⏳ Genel Komutlar
+### ⏳ Ballas Komutlar
 - `/oynat` •> **ɪsᴛᴇᴅɪɢɪɴ sᴀʀᴋɪʏɪ ᴏʏɴᴀᴛ**
 - `/bul` •> **ɪsᴛᴇᴅɪɢɪɴ sᴀʀᴋɪʏɪ ɪɴᴅɪʀ** 
 - `/durdur` •> **sᴀʀᴋɪʏɪ ᴅᴜʀᴅᴜʀ**
@@ -24,7 +24,17 @@
 ### Heroku Kurulum ⏳
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MehmetAtes21/Music)
 -
+### sahip
+(https://t.me/umursuz)
 
-<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/MehmetAtes21/Music"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
+### BALLAS MÜZİK ASİSTAN
+(https://t.me/Ballas_musicasistan)
 
-- Bu botu barındırmanın ikinci en kolay yolu, Okteto Cloud'da Dağıt. 
+### Deploy sahip 
+(https://t.me/BOT_RAMO)
+
+### YARDIMCI 
+(https://t.me/ballaselsann)
+
+### GURUP LİNKİ
+(https://t.me/Ballasresmi)
