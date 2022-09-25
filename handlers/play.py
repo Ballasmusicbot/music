@@ -198,7 +198,7 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("🔖 𝖲𝗍𝖺𝗋 𝖬𝗎𝗓𝗂𝗄 𝖲𝗎𝗉𝗉𝗈𝗋𝗍", url=f"https://t.me/Starbotdestek"),
+                InlineKeyboardButton("𝕭 BALLAS GURUP 𝕭", url=f"https://t.me/Ballasresmi"),
             ],
         ]
     )
@@ -260,7 +260,7 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("🔖 𝖲𝗍𝖺𝗋 𝖬𝗎𝗓𝗂𝗄 𝖲𝗎𝗉𝗉𝗈𝗋𝗍", url=f"https://t.me/Starbotdestek"),
+                InlineKeyboardButton("𝕭 BALLAS GURUP 𝕭 ", url=f"https://t.me/Ballasresmi"),
             ],
         ]
     )
@@ -280,7 +280,7 @@ async def play(_, message: Message):
         position = await queues.put(message.chat.id, file=file_path)
         await message.reply_photo(
         photo="final.png",
-        caption="**▶️ Şarkı :** {}\n**⏳ Süre :** {} **dk**\n**✍🏻 Talep :** {}\n\n**🔖 Parça Sırası :** {}".format(
+        caption="**▶️ Şarkı :** {}\n**⏳ Süre :** {} **dk**\n**✍🏻 Talep :** {}\n\n**𝕭 Parça Sırası :** {}".format(
         title, duration, message.from_user.mention(), position
         ),
         reply_markup=keyboard)
