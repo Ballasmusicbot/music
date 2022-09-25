@@ -2,7 +2,7 @@
 # 𝕭ALLAS Müzik Bot 𝕭
 - [BALLAS Müzik Bot](https://t.me/Ballasmuzikbot) Telegram Müzik Bot .
 
-# Gurup 
+# 𝕭ALLAS GURUP 
 - [Ballas Gurup](https://t.me/Ballasresmi) Telegram Ballas Grub .
 
 
